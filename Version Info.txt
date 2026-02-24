@@ -1,0 +1,186 @@
+;========================================================
+;Shortcuts NOT disabled									|
+;														|
+;Windows + L (Lock Screen)								|
+;Windows Key L											|
+;Windows Key R											|
+;Windows + Ctrl + Shift + B (Reset Graphic Driver)		|
+;Ctrl + C (Copy)										|
+;Ctrl + F (Search)										|
+;Ctrl + V (Paste)										|
+;Ctrl + X (Cut)											|
+;Ctrl + Y (Redo)										|
+;Ctrl + Z (Undo)										|
+;Ctrl + Shift (Switch Keyboard Layout)					|
+;Ctrl + Alt + Del (Security Menu)						|
+;Alt + Tab (Task Switcher)								|
+;Caps Lock (Toggle Key)									|
+;Esc (Escape Key)										|
+;														|
+;*Right-Click is blocked for rcB Version				|
+;========================================================
+
+========================================================================================================
+####### Zelbor AutoHotKey v1.1 - Last Update Feb 18th, 2026 ####### Shortcuts disabled
+========================================================================================================
+WINDOWS KEYS + ...
+Windows + Space (Switch Keyboard Layout)
+
+========================================================================================================
+MOUSE
+Windows Key + Shift + Right-Click
+Windows Key + Ctrl + Right-Click
+Windows Key + Alt + Right-Click
+Shift + Ctrl + Right-Click
+Shift + Alt + Right-Click
+Ctrl + Alt + Right-ClicK
+
+Windows Key + Shift + Ctrl + Right-Click
+Windows Key + Shift + Alt + Right-Click
+Windows Key + Ctrl + Alt + Right-Click
+Shift + Ctrl + Alt + Right-Click
+
+========================================================================================================
+####### Zelbor AutoHotKey v1.0 - Last Update August 17th, 2025 ####### Shortcuts disabled
+========================================================================================================
+MOUSE
+
+Windows Key + Right-Click 
+Shift + Right-Click 
+Ctrl + Right-Click 
+Alt + Right-Click 
+
+========================================================================================================
+WINDOWS KEYS + ...
+
+Windows + 1 to 0 (Open an App in Task Bar)
+
+Windows + A (Notification Center)
+Windows + B (Notification Area)
+Windows + C (Copilot)
+Windows + D (Show Desktop)
+Windows + E (File Explorer)
+Windows + F (Feedback Hub)
+Windows + G (Game Bar)
+Windows + H (Voice Activation)
+Windows + I (Settings Configuration)
+Windows + J (Select Notification)
+Windows + M (Minimize all windows)
+Windows + N (Notification and Calendar)
+Windows + O (Orientation Lock)
+Windows + P (Project Screen)
+Windows + Q (Windows Search)
+Windows + R (Run Dialog)
+Windows + S (Windows Search)
+Windows + T (Icons Task Bar)
+Windows + U (Accessibility Center)
+Windows + V (Clipboard History)
+Windows + W (Widget Panel)
+Windows + X (Quick Link Menu)
+Windows + Z (Windows Panel Settings)
+
+Windows + TAB (Task View)
+
+Windows + Menu Key (Menu Options)
+
+========================================================================================================
+WINDOWS + SHIFT + ...
+
+Windows + Shift + 1 to 0 (Open an App in Task Bar)
+
+Windows + Shift + M (Resotre minimized windows)
+Windows + Shift + N (New file in File Explorer)
+Windows + Shift + S (Snipping Tool)
+
+Windows + Shift + ↑ (Max window high)
+Windows + Shift + ↓ (Center window)
+Windows + Shift + ← (Move window to another monitor)
+Windows + Shift + → (Move window to another monitor)
+Windows + Shift + Enter (Open app as Admin)
+
+========================================================================================================
+WINDOWS + CTRL + ...
+
+Windows + Ctrl + D (Create Virtual Desktop)
+Disable Windows + Ctrl + N (Open Narrator Settings)
+Disable Windows + Ctrl + Q (Quick Assist)
+
+Windows + Ctrl + F4 (Close Active Virtual Desktop)
+Windows + Ctrl + ← (Move Virtual Desktop window to another monitor)
+Windows + Ctrl + → (Move Virtual Desktop window to another monitor)
+
+========================================================================================================
+WINDOWS + ALT + ...
+
+Windows + Alt + 1 to 0 (Open Menu App in Task Bar)
+
+Windows + Alt + D (Show calendar and clock in Task Bar)
+Windows + Alt + G (Save last 30 game seconds)
+Windows + Alt + R (Start/Stop Xbox recording from Xbox Game Bar)
+Windows + Alt + T (Show/Hide recording temp)
+
+Windows + Alt + PrintScreen (Screen recording active game)
+
+========================================================================================================
+Shift + ...
+
+Shift + Delete (Permanent Delete)
+Shift + Apps Key (Menu Options)
+
+========================================================================================================
+CTRL + ...
+
+Ctrl + A (Select All)
+Ctrl + E (Explorer)
+Ctrl + N (New)
+Ctrl + O (Open File)
+Ctrl + P (Print)
+Ctrl + Q (Close App)
+Ctrl + S (Save)
+Ctrl + T (New Tab)
+Ctrl + W (Close Tab)
+
+Ctrl + Tab (Switch Tabs)
+Ctrl + Apps Key (Menu Options)
+
+========================================================================================================
+Ctrl + Shift + ...
+
+Ctrl + Shift + M (Login Microsft)
+Ctrl + Shift + N (New Incognito/Private Window)
+
+Ctrl + Shift + Esc (Task Manager)
+
+========================================================================================================
+Ctrl + Alt + ...
+
+Ctrl + Alt + Esc (Alternative Task Manager)
+Ctrl + Alt + ↑ (Rotate screen)
+Ctrl + Alt + ↓ (Rotate screen
+Ctrl + Alt + ← (Rotate screen)
+Ctrl + Alt + → Flecha Derecha (Rotate screen)
+
+========================================================================================================
+Alt + ...
+
+Alt + D (Address Bar)
+Alt + E (Edit Menu)
+Alt + F (File Menu)
+
+Alt + Esc (Change Window)
+Alt + F4 (Close Window)
+Alt + Enter (Full Screen Toggle)
+Alt + Space (Window Menu)
+Alt + Apps Key (Menu Options)
+
+========================================================================================================
+Alt + Shift + ...
+
+Alt + Shift (Keyboard Language Switch)
+
+========================================================================================================
+Other
+
+Apps (Menu Key)
+
+========================================================================================================
