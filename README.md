@@ -30,7 +30,6 @@ The following shortcuts are not blocked:
 - `Windows + L` → Lock Screen
 - `Windows Key L` → Windows Left Key
 - `Windows Key R` → Windows Right Key
-- `Windows + Space` → Switch Keyboard Layout
 - `Windows + Ctrl + Shift + B` → Reset Graphic Driver
 - `Ctrl + C` → Copy
 - `Ctrl + F` → Search
@@ -38,6 +37,7 @@ The following shortcuts are not blocked:
 - `Ctrl + X` → Cut
 - `Ctrl + Y` → Redo
 - `Ctrl + Z` → Undo
+- `Ctrl + Shift` → Switch Keyboard Layout
 - `Ctrl + Alt + Del` → Security Menu
 - `Alt + Tab` → Task Switcher
 - `Caps Lock` → Toggle Caps
@@ -45,6 +45,7 @@ The following shortcuts are not blocked:
 
 Updates
 ---
+- Zelbor-AutoHotKey v1.1 - February 18th, 2026
 - Zelbor-AutoHotKey v1.0 - August 17th, 2025
 
 
