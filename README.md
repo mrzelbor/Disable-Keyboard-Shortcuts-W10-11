@@ -45,6 +45,7 @@ The following shortcuts are not blocked:
 
 Updates
 ---
+- Zelbor-AutoHotKey v2.0 - June 4th, 2026
 - Zelbor-AutoHotKey v1.1 - February 18th, 2026
 - Zelbor-AutoHotKey v1.0 - August 17th, 2025
 
